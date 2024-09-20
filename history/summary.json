@@ -4,19 +4,19 @@
     "url": "https://www.vagonmaster.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vagonmaster.com.ico",
     "slug": "vagonmaster-com",
-    "status": "down",
-    "uptime": "21.63%",
-    "uptimeDay": "21.63%",
-    "uptimeWeek": "21.63%",
-    "uptimeMonth": "21.63%",
-    "uptimeYear": "21.63%",
-    "time": 6142,
-    "timeDay": 6142,
-    "timeWeek": 6142,
-    "timeMonth": 6142,
-    "timeYear": 6142,
+    "status": "up",
+    "uptime": "16.14%",
+    "uptimeDay": "16.14%",
+    "uptimeWeek": "16.14%",
+    "uptimeMonth": "16.14%",
+    "uptimeYear": "16.14%",
+    "time": 6390,
+    "timeDay": 6390,
+    "timeWeek": 6390,
+    "timeMonth": 6390,
+    "timeYear": 6390,
     "dailyMinutesDown": {
-      "2024-09-20": 93
+      "2024-09-20": 134
     }
   },
   {
@@ -79,26 +79,6 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-20": 75
-    }
-  },
-  {
-    "name": "IPv6 test",
-    "url": "forwardemail.net",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "i-pv6-test",
-    "status": "down",
     "uptime": "0.01%",
     "uptimeDay": "0.01%",
     "uptimeWeek": "0.01%",
@@ -110,7 +90,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-20": 75
+      "2024-09-20": 117
+    }
+  },
+  {
+    "name": "IPv6 test",
+    "url": "forwardemail.net",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "i-pv6-test",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-09-20": 117
     }
   }
 ]
