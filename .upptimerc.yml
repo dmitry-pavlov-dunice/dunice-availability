@@ -7,6 +7,10 @@ sites:
     url: https://www.vagonmaster.com
   - name: Rise-Up
     url: https://rise-up.dunice.net
+  - name: Staff-Dunice
+    url: https://staff.dunice.net/
+  - name: Vagdepo
+    url: https://vagdepo.kz/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
