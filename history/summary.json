@@ -4,19 +4,19 @@
     "url": "https://www.vagonmaster.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vagonmaster.com.ico",
     "slug": "vagonmaster-com",
-    "status": "down",
-    "uptime": "74.75%",
-    "uptimeDay": "81.44%",
-    "uptimeWeek": "74.75%",
-    "uptimeMonth": "74.75%",
-    "uptimeYear": "74.75%",
-    "time": 6269,
-    "timeDay": 6355,
-    "timeWeek": 6269,
-    "timeMonth": 6269,
-    "timeYear": 6269,
+    "status": "up",
+    "uptime": "74.39%",
+    "uptimeDay": "80.72%",
+    "uptimeWeek": "74.39%",
+    "uptimeMonth": "74.39%",
+    "uptimeYear": "74.39%",
+    "time": 6342,
+    "timeDay": 6466,
+    "timeWeek": 6342,
+    "timeMonth": 6342,
+    "timeYear": 6342,
     "dailyMinutesDown": {
-      "2024-09-21": 268,
+      "2024-09-21": 278,
       "2024-09-20": 272
     }
   },
@@ -91,7 +91,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-21": 1407,
+      "2024-09-21": 1418,
       "2024-09-20": 684
     }
   },
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-21": 1407,
+      "2024-09-21": 1418,
       "2024-09-20": 684
     }
   }
