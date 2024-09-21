@@ -4,19 +4,19 @@
     "url": "https://www.vagonmaster.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vagonmaster.com.ico",
     "slug": "vagonmaster-com",
-    "status": "up",
-    "uptime": "73.79%",
-    "uptimeDay": "80.85%",
-    "uptimeWeek": "73.79%",
-    "uptimeMonth": "73.79%",
-    "uptimeYear": "73.79%",
+    "status": "down",
+    "uptime": "74.75%",
+    "uptimeDay": "81.44%",
+    "uptimeWeek": "74.75%",
+    "uptimeMonth": "74.75%",
+    "uptimeYear": "74.75%",
     "time": 6269,
-    "timeDay": 6351,
+    "timeDay": 6355,
     "timeWeek": 6269,
     "timeMonth": 6269,
     "timeYear": 6269,
     "dailyMinutesDown": {
-      "2024-09-21": 277,
+      "2024-09-21": 268,
       "2024-09-20": 272
     }
   },
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 721,
-    "timeDay": 672,
-    "timeWeek": 721,
-    "timeMonth": 721,
-    "timeYear": 721,
+    "time": 676,
+    "timeDay": 540,
+    "timeWeek": 676,
+    "timeMonth": 676,
+    "timeYear": 676,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1295,
-    "timeDay": 1384,
-    "timeWeek": 1295,
-    "timeMonth": 1295,
-    "timeYear": 1295,
+    "time": 1306,
+    "timeDay": 1329,
+    "timeWeek": 1306,
+    "timeMonth": 1306,
+    "timeYear": 1306,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 925,
-    "timeDay": 975,
-    "timeWeek": 925,
-    "timeMonth": 925,
-    "timeYear": 925,
+    "time": 1093,
+    "timeDay": 1429,
+    "timeWeek": 1093,
+    "timeMonth": 1093,
+    "timeYear": 1093,
     "dailyMinutesDown": {}
   },
   {
@@ -91,7 +91,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-21": 1361,
+      "2024-09-21": 1407,
       "2024-09-20": 684
     }
   },
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-21": 1361,
+      "2024-09-21": 1407,
       "2024-09-20": 684
     }
   }
