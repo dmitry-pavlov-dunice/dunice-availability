@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vagonmaster.com.ico",
     "slug": "vagonmaster-com",
     "status": "up",
-    "uptime": "96.59%",
+    "uptime": "96.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "96.59%",
+    "uptimeYear": "96.60%",
     "time": 5893,
     "timeDay": 6220,
     "timeWeek": 5723,
@@ -70,9 +70,9 @@
     "url": "https://vagdepo.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/vagdepo.kz.ico",
     "slug": "vagdepo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -81,7 +81,9 @@
     "timeWeek": 1139,
     "timeMonth": 1097,
     "timeYear": 1091,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-26": 0
+    }
   },
   {
     "name": "Test Broken Site",
@@ -100,7 +102,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-26": 72,
+      "2024-11-26": 227,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
@@ -187,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-26": 72,
+      "2024-11-26": 227,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
