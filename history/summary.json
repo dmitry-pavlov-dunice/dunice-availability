@@ -89,18 +89,20 @@
     "url": "https://vagdepo.kz/",
     "icon": "https://icons.duckduckgo.com/ip3/vagdepo.kz.ico",
     "slug": "vagdepo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1217,
-    "timeDay": 985,
-    "timeWeek": 1271,
-    "timeMonth": 1242,
-    "timeYear": 1217,
-    "dailyMinutesDown": {}
+    "time": 1230,
+    "timeDay": 2936,
+    "timeWeek": 1633,
+    "timeMonth": 1349,
+    "timeYear": 1230,
+    "dailyMinutesDown": {
+      "2025-06-21": 0
+    }
   },
   {
     "name": "Test Broken Site",
@@ -119,7 +121,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-21": 79,
+      "2025-06-21": 192,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -413,7 +415,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-21": 79,
+      "2025-06-21": 192,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
